@@ -13,4 +13,4 @@
 - <b>C++ Code Game</b>
   - 
 - <b>Corporate Proposal</b>
-  - [Fake Business Canyon Aeroenautics Network Infrastructure](https://github.com/Clobrigo/corporate_Proposal)</b>
+  - </b>[Fake Business Canyon Aeroenautics Network Infrastructure](https://github.com/Clobrigo/corporate_Proposal)</b>
